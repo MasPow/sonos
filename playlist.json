@@ -1,0 +1,52 @@
+{
+  "library": [
+    {
+      "title": "Los Hijos",
+      "artist": "Freeze Corleone",
+      "url": "audio/los-hijos.mp3",
+      "duration": "3:30"
+    },
+    {
+      "title": "Serrure #667",
+      "artist": "La Rvfleuze ft Freeze Corleone",
+      "url": "audio/serrure-667.mp3",
+      "duration": "3:45"
+    },
+    {
+      "title": "Vendredi 13 Juin 2025",
+      "artist": "Inconnu",
+      "url": "audio/vendredi13.mp3",
+      "duration": "4:00"
+    },
+    {
+      "title": "El Rancho",
+      "artist": "Jeff McDonald",
+      "url": "audio/flashback-el-rancho.mp3",
+      "duration": "3:50"
+    },
+    {
+      "title": "Serrure #5",
+      "artist": "La Rvfleuze",
+      "url": "audio/serrure-5.mp3",
+      "duration": "3:20"
+    },
+    {
+      "title": "Raspoutine",
+      "artist": "Ziak",
+      "url": "audio/raspoutine.mp3",
+      "duration": "3:55"
+    },
+    {
+      "title": "Stream Par Stream",
+      "artist": "Elias B4C",
+      "url": "audio/stream-par-stream.mp3",
+      "duration": "3:10"
+    },
+    {
+      "title": "H",
+      "artist": "H.L.A Drogue",
+      "url": "audio/hla-drogue-h.mp3",
+      "duration": "3:25"
+    }
+  ]
+}
